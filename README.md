@@ -87,6 +87,7 @@ Aquí hay una lista de recursos que conviene estudiar para las entrevistas
 * [Data Structures - Youtube video series](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 * [Conceptos Basicos de Unit Testing con jUnit - Udemy](https://www.udemy.com/learn-by-example-junit/)
 * [Spring Tutorial series](https://www.baeldung.com/spring-tutorial)
+* [Spring boot](http://www.springboottutorial.com/spring-boot-interview-questions)
 * [Tech Primes - Canal de Youtube con tutoriales de tendencias actuales, muy recomendado](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw/playlists)
 
 ### JavaScript
